@@ -1,5 +1,5 @@
 title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
-Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 063 Murah,sepatu-futsal-olahraga-anak-laki-laki-cli-063,"
+Jual Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 071 Murah,cns-071,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -15,19 +15,19 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 063 Murah,sepatu-futsal-olahr
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -47,7 +47,7 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 063 Murah,sepatu-futsal-olahr
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Futsal / Olahraga Anak Laki-laki - CLI 063 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sport Anak Laki-Laki ini terbuat dari bahan SINTETIS.<br/>Kode : CLI 063<br/>Warna : HITAM PUTIH<br/>Bahan : SINTETIS<br/>Ukuran : 32 - 37<br/>Berat : 0.6 kg<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 071 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sport Anak Laki-Laki ini terbuat dari bahan SINTETIS.<br/>Kode : CNS 071<br/>Warna : HIJAU KOMBINASI<br/>Bahan : SINTETIS<br/>Ukuran : 31 ~ 37<br/>Berat : 700 gram<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -60,11 +60,9 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 063 Murah,sepatu-futsal-olahr
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -72,8 +70,8 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 063 Murah,sepatu-futsal-olahr
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,sepatu-sport-anak-laki-laki,catenzo-junior,sepatu-sport-anak-laki-laki,catenzo-junior,"Sepatu Sport Anak Laki-Laki Bahan SINTETIS, Ukuran 32 - 37, Warna HITAM PUTIH",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/18-cli-063.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-063-a.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-063-b.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-063-c.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-063-d.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-063-e.jpg,Sepatu Futsal / Olahraga Anak Laki-laki - CLI 063,Rp 100.400,Rp 117.900,Rp 17.500,CLI 063,Baru
-Jual Sepatu Futsal / Olahraga Anak Laki-laki - CNS 058 Murah,sepatu-futsal-olahraga-anak-laki-laki-cns-058,"
+     </div><!--/category-tab-->",2018-02-27,html,sepatu-sport-anak-laki-laki,catenzo-junior,sepatu-sport-anak-laki-laki,catenzo-junior,"Sepatu Sport Anak Laki-Laki Bahan SINTETIS, Ukuran 31 ~ 37, Warna HIJAU KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cns-071.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-071-a.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-071-b.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-071-c.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-071-d.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-071-e.jpg,Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 071,Rp 108.900,Rp 125.900,Rp 17.000,CNS 071,Baru
+Jual Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 058 Murah,cns-058,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -89,19 +87,19 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CNS 058 Murah,sepatu-futsal-olahr
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -121,7 +119,7 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CNS 058 Murah,sepatu-futsal-olahr
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Futsal / Olahraga Anak Laki-laki - CNS 058 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sport Anak Laki-Laki ini terbuat dari bahan SINTETIS.<br/>Kode : CNS 058<br/>Warna : HITAM<br/>Bahan : SINTETIS<br/>Ukuran : 31 - 37<br/>Berat : 0.6 kg<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 058 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sport Anak Laki-Laki ini terbuat dari bahan SINTETIS.<br/>Kode : CNS 058<br/>Warna : HITAM<br/>Bahan : SINTETIS<br/>Ukuran : 31 ~ 37<br/>Berat : 750 gram<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -134,11 +132,9 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CNS 058 Murah,sepatu-futsal-olahr
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -146,8 +142,8 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CNS 058 Murah,sepatu-futsal-olahr
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,sepatu-sport-anak-laki-laki,catenzo-junior,sepatu-sport-anak-laki-laki,catenzo-junior,"Sepatu Sport Anak Laki-Laki Bahan SINTETIS, Ukuran 31 - 37, Warna HITAM",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/19-cns-058.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cns-058-a.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cns-058-b.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cns-058-c.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cns-058-d.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cns-058-e.jpg,Sepatu Futsal / Olahraga Anak Laki-laki - CNS 058,Rp 101.400,Rp 118.900,Rp 17.500,CNS 058,Baru
-Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 062 Murah,sepatu-futsal-olahraga-anak-laki-laki-cli-062,"
+     </div><!--/category-tab-->",2018-02-27,html,sepatu-sport-anak-laki-laki,catenzo-junior,sepatu-sport-anak-laki-laki,catenzo-junior,"Sepatu Sport Anak Laki-Laki Bahan SINTETIS, Ukuran 31 ~ 37, Warna HITAM",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cns-058.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-058-a.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-058-b.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-058-c.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-058-d.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-058-e.jpg,Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 058,Rp 108.900,Rp 125.900,Rp 17.000,CNS 058,Baru
+Jual Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 070 Murah,cns-070,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -163,19 +159,19 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 062 Murah,sepatu-futsal-olahr
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -195,7 +191,7 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 062 Murah,sepatu-futsal-olahr
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Futsal / Olahraga Anak Laki-laki - CLI 062 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sport Anak Laki-Laki ini terbuat dari bahan SINTETIS.<br/>Kode : CLI 062<br/>Warna : MERAH<br/>Bahan : SINTETIS<br/>Ukuran : 32 - 37<br/>Berat : 0.6 kg<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 070 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sport Anak Laki-Laki ini terbuat dari bahan SINTETIS.<br/>Kode : CNS 070<br/>Warna : MERAH<br/>Bahan : SINTETIS<br/>Ukuran : 31 ~ 37<br/>Berat : 700 gram<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -208,11 +204,9 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 062 Murah,sepatu-futsal-olahr
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -220,4 +214,148 @@ Jual Sepatu Futsal / Olahraga Anak Laki-laki - CLI 062 Murah,sepatu-futsal-olahr
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,sepatu-sport-anak-laki-laki,catenzo-junior,sepatu-sport-anak-laki-laki,catenzo-junior,"Sepatu Sport Anak Laki-Laki Bahan SINTETIS, Ukuran 32 - 37, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/20-cli-062.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-062-a.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-062-b.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-062-c.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-062-d.jpg,https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-berbagai-sudut/cli-062-e.jpg,Sepatu Futsal / Olahraga Anak Laki-laki - CLI 062,Rp 100.400,Rp 117.900,Rp 17.500,CLI 062,Baru
+     </div><!--/category-tab-->",2018-02-27,html,sepatu-sport-anak-laki-laki,catenzo-junior,sepatu-sport-anak-laki-laki,catenzo-junior,"Sepatu Sport Anak Laki-Laki Bahan SINTETIS, Ukuran 31 ~ 37, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cns-070.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-070-a.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-070-b.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-070-c.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-070-d.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cns-070-e.jpg,Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CNS 070,Rp 108.900,Rp 125.900,Rp 17.000,CNS 070,Baru
+Jual Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CLI 081 Murah,cli-081,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CLI 081 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sport Anak Laki-Laki ini terbuat dari bahan SINTETIS.<br/>Kode : CLI 081<br/>Warna : MERAH KOMBINASI<br/>Bahan : SINTETIS<br/>Ukuran : 32 ~ 37<br/>Berat : 600 gram<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-27,html,sepatu-sport-anak-laki-laki,catenzo-junior,sepatu-sport-anak-laki-laki,catenzo-junior,"Sepatu Sport Anak Laki-Laki Bahan SINTETIS, Ukuran 32 ~ 37, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cli-081.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-081-a.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-081-b.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-081-c.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-081-d.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-081-e.jpg,Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CLI 081,Rp 107.900,Rp 124.900,Rp 17.000,CLI 081,Baru
+Jual Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CLI 062 Murah,cli-062,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CLI 062 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sport Anak Laki-Laki ini terbuat dari bahan SINTETIS.<br/>Kode : CLI 062<br/>Warna : MERAH<br/>Bahan : SINTETIS<br/>Ukuran : 32 ~ 37<br/>Berat : 600 gram<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-27,html,sepatu-sport-anak-laki-laki,catenzo-junior,sepatu-sport-anak-laki-laki,catenzo-junior,"Sepatu Sport Anak Laki-Laki Bahan SINTETIS, Ukuran 32 ~ 37, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cli-062.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-062-a.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-062-b.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-062-c.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-062-d.jpg,https://images.lipatan.com/katalog-catenzo-junior-2018/foto-berbagai-sudut/cli-062-e.jpg,Sepatu Futsal / Bola / Olahraga Anak Laki-laki - CLI 062,Rp 107.900,Rp 124.900,Rp 17.000,CLI 062,Baru
